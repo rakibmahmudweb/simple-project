@@ -1,0 +1,130 @@
+/*navber style start hears for mabile */
+.col-1{width:8.33%;}
+.col-2{width:16.64%;}
+.col-3{width:25%;}
+.col-4{width:33.33%;}
+.col-5{width:41.64%;}
+.col-6{width:50%;}
+.col-7{width:58.33%;}
+.col-8{width:66.64%;}
+.col-9{width:75%;}
+.col-10{width:83.33%;}
+.col-11{width:91.66%;}
+.col-12{width:100%;}
+.nav-logo{
+    text-align:left;
+}
+.nav-heading h1{
+    text-align: right;
+}
+.navber-menu{
+    flex-direction:row;
+    justify-content: flex-end;
+}
+.navber-menu a{
+    padding:5px 5px;
+    margin:10px 0px;
+    background-color: transparent;  
+}
+.logo{
+    height:60px;
+    width:70px;
+    border-radius:40%;
+}
+/*navber style end  hears for desktop.*/
+/*Profile Design Starts hear*/
+.profile-desc p{
+    color:gray;
+    margin:0 auto;
+    text-align: center;
+    margin-bottom: 10px;
+    width:50%;
+}
+.profile .top-weather-icon{
+    right:100px;
+    top:15px;
+    height:90px;
+    width:100px;
+    transition: width 2s, transform 2s;
+}
+.profile .top-weather-icon:hover{
+   width:100px;
+}
+.profile .bottom-weather-icon{
+    left:100px;
+    bottom:20px;
+    height:100px;
+    width:120px;
+    transition: width 2s, transform 2s;
+}
+.profile .bottom-weather-icon:hover{
+   width:150px;
+}
+/*Profile Design ends hear*/
+/*About me start Hear*/
+.aboutme-image{
+    margin-top:100px;   
+}
+.aboutme-image img{
+    height:290px;
+    width:320px;
+}
+.aboutme-desc p{
+    text-align: left;
+}
+/*About Me End Hear* /
+/*Profesionla exparience start hear*/
+.card-icon .img{
+    height:50px;
+    width:50px;
+    border-radius:50%;
+}
+.rak{
+    font-size:0.92rem;
+}
+/*Profesionla exparience start hear*/
+.profesional-exparience .card{
+    height:580px; 
+    box-shadow:  none;
+}
+.card-title h2{
+    font-size:20px;
+}
+.profesional-exparience{
+    padding:1% 5%;
+}
+/*Profesionla exparience ends hear*/
+/*Achivement COntacr start heaar*/
+.achivement{
+    padding-right:40px;
+}
+.contact button{
+    
+    width:150px;
+}
+.contact-links{
+    position: relative;
+}
+.media-button{
+    position: absolute;
+    margin-top:200px;
+    left:50%;
+    top:50%;
+    transform:translate(-50%,-50%);
+}
+/*Achivement COntacr ends heaar*/
+/*Footer start for hear */
+.footer-menu{
+    margin-top:12px;
+}
+.footre-desc{
+    font-size:1.3rem;
+}
+.footer-menu a{
+    display: inline;
+    margin:10px;
+}
+.media-button{
+    padding:auto 0;
+}
+/*Footer ends for hear  */
